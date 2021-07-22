@@ -4,7 +4,7 @@ Neste projeto aprendi a testar, unitariamente, uma API REST para o gerenciamento
 
 Para executar o projeto no terminal, digite o seguinte comando:
 
-Foram feitas algumas adaptações para conseguir rodar o projeto no Eclipse!!! 
+Foram feitas algumas adaptaÃ§Ãµes para conseguir rodar o projeto no Eclipse!!! 
 
 ```shell script
 mvn spring-boot:run 
